@@ -18,16 +18,13 @@
   
 ### :zap: GitHub Stats
 
-<center>
-  <table>
-    <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=nayakastha&hide=html&layout=compact&theme=nord"/></td>
-    </tr>  
-  </table>
-</center>
+<p>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nayakastha&count_private=true&show_icons=true&theme=ayu-mirage&custom_title= Astha's GitHub Stats" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayakastha&count_private=true&show_icons=true&theme=ayu-mirage" alt="The only streaks that matter"/>
+</p>
  
   
-
+<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=nayakastha&theme=ayu-mirage&layout=compact&title_color=FF69B4"/>
                                                                                                                              
                                                                                                                                 
 <p align="center">
