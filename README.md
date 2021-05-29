@@ -19,12 +19,13 @@
 ### :zap: GitHub Stats
 
 <p>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nayakastha&count_private=true&show_icons=true&theme=ayu-mirage&custom_title= Astha's GitHub Stats" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayakastha&count_private=true&show_icons=true&theme=ayu-mirage" alt="The only streaks that matter"/>
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=nayakastha&count_private=true&show_icons=true&border_radius=5&hide_border=true&theme=slateorange&custom_title= Astha's GitHub Stats" />
+  <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nayakastha&count_private=true&hide_border=true&show_icons=true&theme=slateorange" alt="The only streaks that matter"/>
+ <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayakastha&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=slateorange&text_color=FFFFFF&hide_title=true">
 </p>
  
   
-<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=nayakastha&theme=ayu-mirage&layout=compact&title_color=FF69B4"/>
+<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=nayakastha&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
                                                                                                                              
                                                                                                                                 
 <p align="center">
