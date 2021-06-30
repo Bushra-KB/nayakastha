@@ -33,6 +33,9 @@
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=nayakastha&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
  
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
  
                                                                                                                                 
