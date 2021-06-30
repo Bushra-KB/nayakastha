@@ -1,5 +1,10 @@
 [![Header](https://github.com/nayakastha/nayakastha/blob/main/I%20need%20my%20space..png "Header")](https://github.com/nayakastha)
 ---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nayakastha/count.svg" />
+</p>
+
 
 ### Here's a list of things I currently keep myself busy with:
   
