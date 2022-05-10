@@ -8,11 +8,10 @@
 
 ### Here's a list of things I currently keep myself busy with:
   
-- 👩🏻‍💻 I am second year Computer Science Undergraduate at National Institute of Technology, Rourkela
+- 👩🏻‍💻 I am final year Computer Science Undergraduate at National Institute of Technology, Rourkela
 - ☀️ Contributing to a few open-source projects (Open Source is always fun).
-- 🏃  In absolute love with Flutter and building mobile applications with it.
-- ✍️ Writing tech blog posts over at **[medium](https://nayakastha2911.medium.com/)**.
-- 🛠 Getting myself into JAMStack.
+- 🏃 In absolute love with Flutter and building mobile applications with it.
+- ✍️ To know more about me checkout my [website](https://asthanayak.tech)
 
 
 ### Some other facts about me-e-e (Alexa play ME! by Taylor Swift ft. Brendon Urie 🎶)  
